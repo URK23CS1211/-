@@ -1,1 +1,1 @@
-fatser with github
+print("fatser with github")
